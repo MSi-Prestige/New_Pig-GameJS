@@ -169,3 +169,7 @@ main {
 .hidden {
   display: none;
 }
+
+footer {
+  background-color: #bf2e34;
+}
